@@ -1,0 +1,5 @@
+streamlit
+requests
+speechrecognition
+pyttsx3
+streamlit-lottie
